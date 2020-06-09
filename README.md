@@ -1,2 +1,2 @@
-# python-tkinter
-This project is made up of tkinter
+# python-tkinter-Registrationform
+This Registrationform is made up of tkinter.
